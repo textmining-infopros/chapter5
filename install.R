@@ -1,6 +1,5 @@
 install.packages("igraph")
 install.packages("networkD3")
-install.packages("textnets")
 install.packages("ggraph")
 install.packages("ggplot2")
 install.packages("udpipe")
