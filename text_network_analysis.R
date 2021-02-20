@@ -4,7 +4,7 @@ install_github("cbail/textnets")
 
 #A prompt will show: These packages have more recent versions available. It is recommended to update all of them. Which would you like to update?
         ##Please Choose Option 1
-#This make time few minutes to install the packages, please be patient and wait.
+#It will take few minutes to install the packages, please wait.
 
 #Load libraries
 library(textnets)
