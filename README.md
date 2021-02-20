@@ -46,6 +46,6 @@ the analysis:
 
 ### Licenses
 
-**Text and figures**, **Code **, **Data :** [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
+**Text and figures**, **Code**, **Data :** [CC-BY-4.0](http://creativecommons.org/licenses/by/4.0/)
 
 
