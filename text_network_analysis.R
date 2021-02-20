@@ -1,3 +1,7 @@
+#Install textnets package
+library(devtools)
+install_github("cbail/textnets")
+
 #Load libraries
 library(textnets)
 
