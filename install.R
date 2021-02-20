@@ -5,4 +5,4 @@ install.packages("ggplot2")
 install.packages("udpipe")
 install.packages("dplyr")
 install.packages("devtools")
-devtools::install_github("cbail/textnets")
+installGithub.r cbail/textnets
