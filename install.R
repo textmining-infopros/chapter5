@@ -1,1 +1,1 @@
-install.packages("textnets")
+install.packages("devtools")
