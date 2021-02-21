@@ -1,3 +1,3 @@
-install.packages("devtools")
-library(devtools)
-install_github("cbail/textnets")
+install.packages("githubinstall")
+library(githubinstall)
+githubinstall("textnets")
