@@ -7,7 +7,7 @@ Manika Lamba and Margam Madhusudhan (2021) Text Mining: An Uncharted Territory f
 Please cite this compendium as: xxxxxxx
 
 # Contents
-The compendium contains the data, code, and notebook associated with the case study. This case study is further divided into 5A, and 5B. Both 5A case study and 5B case studies used R programming language to perform text network analysis but with different packages. It is organized as follows:
+The compendium contains the data, code, and notebook associated with the case study. This case study is further divided into 5A, and 5B. Both 5A and 5B case studies used R programming language to perform text network analysis but with different packages. It is organized as follows:
 
   - The `5a_dataset.txt` file contains the data for 5A case study.
     - The `5a_results_coword_network_analysis.csv` file contains the supplementary data associated with 5A case study.
