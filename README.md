@@ -35,7 +35,7 @@ the analysis:
     
       - Click
         **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-utl/chapter5/master?urlpath=rstudio) to launch an interactive 
-        [RStudio](https://rstudio.com/) session in your web browser.
+        [RStudio](https://rstudio.com/) session in your web browser. In the virtual environment, open the `text_network_analysis.R` file containing the R code for the process.
         
        - Click
         **Jupyter+R**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-utl/chapter5/master?filepath=Case_Study_5B.ipynb) to launch an interactive [Jupyter Notebook](https://jupyter.org/) session in your web browser using [R](https://cloud.r-project.org/index.html) kernel. When you execute code within the notebook, the results appear beneath the code.
