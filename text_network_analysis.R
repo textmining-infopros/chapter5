@@ -10,7 +10,7 @@ install_github("cbail/textnets")
 library(textnets)
 
 #Load dataset
-data <- read.csv("https://raw.githubusercontent.com/textmining-utl/chapter5/master/5b_dataset.csv?token=ARBWLQ7FRPMWAXI27I6OGOTACZLIW")
+data <- read.csv("https://raw.githubusercontent.com/textmining-infopros/chapter5/master/5b_dataset.csv?token=ARBWLQ7FRPMWAXI27I6OGOTACZLIW")
 
 #Preparing Text with Nouns
 prep<- PrepText(data,
