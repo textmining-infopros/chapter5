@@ -1,7 +1,7 @@
 # Case Study : Network Text Analysis of Documents using Two Different R Packages
 
 This repository contains a reproducible research compendium for the case study used in the book:
-Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professionals: An Uncharted Territory , Springer.
+Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professionals: An Uncharted Territory, SpringerNature.
 
 # How to cite
 Please cite this compendium as: xxxxxxx
