@@ -34,7 +34,7 @@ the analysis:
     BinderHub on [mybinder.org](https://mybinder.org/):
     
       - Click
-        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter5/main?urlpath=rstudio) to launch an interactive 
+        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter5/master?urlpath=rstudio) to launch an interactive 
         [RStudio](https://rstudio.com/) session in your web browser. In the virtual environment, open the `text_network_analysis.R` file to perform network text analysis.
         
        - Click
