@@ -1,10 +1,11 @@
 # Case Study: Network Text Analysis of Documents using Two Different R Packages
+[![DOI](https://zenodo.org/badge/296730353.svg)](https://zenodo.org/badge/latestdoi/296730353)
 
 This repository contains a reproducible research compendium for the case study used in the book:
 Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professionals: An Uncharted Territory, SpringerNature.
 
 # How to cite
-Please cite this compendium as: xxxxxxx
+Please cite this compendium as: Lamba, Manika, & Madhusudhan, Margam. (2021). Network Text Analysis of Documents using Two Different R Packages (Version 1.0). http://doi.org/10.5281/zenodo.5090212
 
 # Contents
 The compendium contains the data, code, and notebook associated with the case study. This case study is further divided into 5A, and 5B. Both 5A and 5B case studies used R programming language to perform text network analysis but with different packages. It is organized as follows:
