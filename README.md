@@ -1,5 +1,7 @@
 # Case Study: Network Text Analysis of Documents using Two Different R Packages [![DOI](https://zenodo.org/badge/296730353.svg)](https://zenodo.org/badge/latestdoi/296730353)
 
+<img src="https://github.com/textmining-infopros/chapter5/blob/master/network-text-analysis-hex.png" width="350" height="400">
+
 This repository contains a reproducible research compendium for the case study used in the book --
 Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professionals: An Uncharted Territory, SpringerNature.
 
