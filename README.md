@@ -15,7 +15,7 @@ Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professio
 Please cite this compendium as: Lamba, Manika, & Madhusudhan, Margam. (2021). Network Text Analysis of Documents using Two Different R Packages (Version 1.0). http://doi.org/10.5281/zenodo.5090212
 
 # Contents
-The compendium contains the data, code, and notebook associated with the case study. This case study is further divided into 5A, and 5B. Both 5A and 5B case studies used R programming language to perform text network analysis but with different packages. It is organized as follows:
+The compendium contains the data, code, and notebook associated with the case studies. This case study is further divided into 5A, and 5B. Both 5A and 5B case studies used R programming language to perform text network analysis but with different packages. It is organized as follows:
 
   - The `5a_dataset.txt` file contains the data for 5A case study.
     - The `5a_results_coword_network_analysis.csv` file contains the supplementary data associated with 5A case study.
@@ -42,9 +42,7 @@ the analysis:
     BinderHub on [mybinder.org](https://mybinder.org/):
     
       - Click
-        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter5/master?urlpath=rstudio) to launch an interactive 
-        [RStudio](https://rstudio.com/) session in your web browser. In the virtual environment, open the `text_network_analysis.R` file to perform network text analysis.
-        
+        **RStudio**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter5/master?urlpath=rstudio) to launch an interactive [RStudio](https://rstudio.com/) session in your web browser for hands-on practice for 5B case study. In the virtual environment, open the `text_network_analysis.R` file to run the code.
        - Click
         **Jupyter+R**: [![Binder](http://mybinder.org/badge_logo.svg)](http://mybinder.org/v2/gh/textmining-infopros/chapter5/master?filepath=Case_Study_5B.ipynb) to launch an interactive [Jupyter Notebook](https://jupyter.org/) session in your web browser using [R](https://cloud.r-project.org/index.html) kernel. When you execute code within the notebook, the results appear beneath the code.
         
