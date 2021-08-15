@@ -1,10 +1,6 @@
 #Install textnets package
-library(githubinstall)
-githubinstall("textnets")
-
-#A prompt will show: Do you want to install the package (Y/n)?  
-        ##Please Type: Y
-#It will take few minutes to install the packages, please wait.
+library(devtools)
+install_github("cbail/textnets")
 
 #Load libraries
 library(textnets)
