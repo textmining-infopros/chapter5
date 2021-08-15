@@ -12,7 +12,7 @@ Manika Lamba and Margam Madhusudhan (2021) Text Mining for Information Professio
 📫 For corrections/suggestions reach me at lambamanika07@gmail.com or create an issue [here](https://github.com/textmining-infopros/chapter5/issues)
 
 # How to Cite
-Please cite this compendium as: Lamba, Manika, & Madhusudhan, Margam. (2021). Network Text Analysis of Documents using Two Different R Packages (Version 1.0). http://doi.org/10.5281/zenodo.5090212
+Please cite this compendium as: Lamba, Manika, & Madhusudhan, Margam. (2021). Network Text Analysis of Documents using Two Different R Packages (Version 1.2). https://doi.org/10.5281/zenodo.5203302
 
 # Contents
 The compendium contains the data, code, and notebook associated with the case studies. This case study is further divided into 5A, and 5B. Both 5A and 5B case studies used R programming language to perform text network analysis but with different packages. It is organized as follows:
