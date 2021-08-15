@@ -1,0 +1,10 @@
+name: textmining-infoprosCHAPTER5-binderized
+channels:
+  - conda-forge
+  - bioconda
+  - r
+dependencies:
+  - r-base>=4
+  - r-irkernel>=1.1
+  - r-githubinstall
+  - r-textnets
