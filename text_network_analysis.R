@@ -1,12 +1,11 @@
-#Install textnets package
+#Install & load textnets library
+install.packages("devtools")
 library(devtools)
 install_github("cbail/textnets")
-
-#Load libraries
 library(textnets)
 
 #Load dataset
-data <- read.csv("https://raw.githubusercontent.com/textmining-infopros/chapter5/master/5b_dataset.csv?token=ARBWLQ7FRPMWAXI27I6OGOTACZLIW")
+data <- read.csv("https://github.com/textmining-infopros/chapter5/raw/refs/heads/master/5b_dataset.csv")
 
 #Preparing Text with Nouns
 prep<- PrepText(data,
